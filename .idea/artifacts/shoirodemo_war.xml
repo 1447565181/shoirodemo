@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="shoirodemo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="shoirodemo.war">
+      <element id="artifact" artifact-name="shoirodemo:war exploded" />
+    </root>
+  </artifact>
+</component>
